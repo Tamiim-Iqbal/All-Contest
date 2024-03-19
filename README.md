@@ -3,7 +3,9 @@
 ### Phitron: 
 1. https://vjudge.net/contest/616851
  
+### Codeforces:
+1. https://codeforces.com/contest/1945
 
 ### Codechef:
 
-### Codeforces:
+
