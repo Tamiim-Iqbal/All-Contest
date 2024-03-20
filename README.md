@@ -7,5 +7,4 @@
 1. https://codeforces.com/contest/1945
 
 ### Codechef:
-
-
+1. https://www.codechef.com/START126D
