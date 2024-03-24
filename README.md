@@ -6,8 +6,8 @@
 ### Codechef:
 1. https://www.codechef.com/START126D
 
-### Phitron: 
-<h6> Private Contests </h6>
+<h6>VJudge Private Contests </h6>
 
+### Phitron: 
 1. https://vjudge.net/contest/616851
 2. https://vjudge.net/contest/618080
